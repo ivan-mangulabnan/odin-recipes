@@ -1,0 +1,38 @@
+body {
+  background-image: url(https://plus.unsplash.com/premium_photo-1715332700320-532dd45eb04d?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+}
+
+.odin {
+  border: 0.4rem solid #333333;
+  background-color: #f1ca96;
+  text-align: center;
+  padding: 0 3%;
+  margin: 20vh 30vw;
+  opacity: 0.85;
+}
+
+.ul li {
+  list-style-type: none;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.ul {
+  padding: 0;
+  line-height: 4rem;
+}
+
+a {
+  color: black;
+  font-size: 2rem;
+}
+
+.h1 {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 5rem;
+  margin: 0.5em 0;
+}
+
+.line-break {
+  background-color: rgb(102, 70, 28);
+  height: 0.3rem;
+}
