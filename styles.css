@@ -102,3 +102,37 @@ a {
   line-height: 1.3em;
   margin: 0 14%;
 }
+
+/* Styles for pizza.html below */
+
+.pizza-body{
+  background-color: rgb(245, 192, 132);
+  margin: 2% 25%;
+  min-width: 600px;
+}
+
+.container{
+  border: .4em solid #333333;
+  background-color: #f5d5ab;
+}
+
+.figure{
+  text-align: center;
+}
+
+.description{
+  text-align: center;
+}
+
+.linebreak{
+  border: .2em solid darkred;
+}
+
+.br-container{
+  padding: 0 5%;
+}
+
+.low-part{
+  padding: 0 5%;
+  line-height: 1.5em;
+}
