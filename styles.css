@@ -136,3 +136,46 @@ a {
   padding: 0 5%;
   line-height: 1.5em;
 }
+
+
+/* Styles for Sinigang :) */
+
+.body-sinigang {
+  background-image: url(https://images.unsplash.com/photo-1591189863430-ab87e120f312?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D);
+}
+
+.main-container {
+  background-color: antiquewhite;
+  border: 2px solid black;
+  margin: 3% 20%;
+  padding: 2% 3%;
+}
+
+.header-sinigang {
+  text-align: center;
+  margin-bottom: 1%;
+  border-bottom: .3em ridge darkred;
+}
+
+.sinigang-ingr {
+  width: 47%;
+  display: inline-block;
+}
+
+.steps{
+  display: inline-block;
+  width: 52%;
+  vertical-align: top;
+}
+
+.steps h3, .sinigang-ingr h3{
+  text-align: center;
+}
+
+.sinigang-ingr ul{
+  padding-left: 23%;
+}
+
+.footer-sinigang {
+  line-height: 2em;
+}
